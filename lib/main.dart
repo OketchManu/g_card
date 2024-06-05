@@ -75,7 +75,7 @@ class GCardState extends State<GCard> {
             const Center(
               child: CircleAvatar(
                 radius: 40.0,
-                backgroundImage: AssetImage('assets/thumb.jpg'),
+                backgroundImage: AssetImage('assets/profile.jpg'),
               ),
             ),
             Divider(
