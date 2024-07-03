@@ -1,5 +1,7 @@
 # g_card
 
+This is my first ever app. It isn'tthat good but a progress
+
 A new Flutter project.
 
 ## Getting Started
